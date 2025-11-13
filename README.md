@@ -42,17 +42,17 @@
 </p>
 
 <div align="center">
-  <a href="https://chat.whatsapp.com/Ix01tGK4gBl07wQGr9jo4C">
+  <a href="https://chat.whatsapp.com/KfM9WwkJdKK3w3lGNOTJbB?mode=wwt">
     <img src="https://img.shields.io/badge/Grupo%20do%20WhatsApp-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo do WhatsApp">
   </a>
-  <a href="https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q">
+  <a href="https://whatsapp.com/channel/0029VbBlfwY9cDDhbhlhUy1a">
     <img src="https://img.shields.io/badge/Canal%20do%20WhatsApp-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal do Whatsapp">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Lm-Only/Yakanji-Bot">
-    <img src="https://img.shields.io/badge/Visitar%20YakanjiBot%20MD-ff69b4?style=for-the-badge&logo=github" alt="Repositório Yakanji">
+    <img src="https://img.shields.io/badge/Visitar%20YakanjiBot-ff69b4?style=for-the-badge&logo=github" alt="Repositório Yakanji">
   </a>
 </div>
 
