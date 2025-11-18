@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://github.com/Lm-Only/Sonic-MD">
-    <img src="https://img.shields.io/badge/Visitar%20YakanjiBot-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Sonic">
+    <img src="https://img.shields.io/badge/Visitar%20Sonic-Md-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Sonic">
   </a>
 </div>
 
