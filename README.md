@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Lm-Only/Dz7api">
+  <a href="https://github.com/Lm-Only/Dz7Api">
     <img src="https://img.shields.io/badge/Visitar%20dz7-Api-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Api">
   </a>
 </div>
