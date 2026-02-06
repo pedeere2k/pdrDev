@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
-        <img src="https://files.catbox.moe/s2mtdu.jpg" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
+        <img src="https://files.catbox.moe/lxlzmx.jpg" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
       </td>
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
@@ -10,7 +10,7 @@
           <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="20" style="vertical-align: middle;">
         </h2>
         <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
-          Desenvolvedor | P D R - SONIC-BOT
+          Desenvolvedor | P D R - JS
         </p>
         <p style="margin: 8px 0 0 0;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin-right: 6px;">
@@ -24,17 +24,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=6A0DAD&center=true&vCenter=true&lines=𝐒𝐎𝐍𝐈𝐂-𝐁𝐎𝐓;𝐍𝐄𝐖+𝐒𝐘𝐒𝐓𝐄𝐌;𝐏𝐃𝐑+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=6A0DAD&center=true&vCenter=true&lines=JavaScript;Node.js;Dz7Api" alt="Typing Animation">
 </p>
 
 <h1 align="center">
   <p>
-    <img src="https://files.catbox.moe/bj64b7.jpg" alt="SONIC-BOT" width="720">
+    <img src="https://files.catbox.moe/bj64b7.jpg" alt="." width="720">
   </p>
 </h1>
 
 <p align="center">
-  <a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blueviolet?&style=for-the-badge"></a>
+  <a href="#"><img title="DEV-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blueviolet?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Lm-Only/Sonic-MD">
-    <img src="https://img.shields.io/badge/Visitar%20Sonic-Md-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Sonic">
+  <a href="https://github.com/Lm-Only/Dz7api">
+    <img src="https://img.shields.io/badge/Visitar%20Sonic-Md-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Api">
   </a>
 </div>
 
