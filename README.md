@@ -52,8 +52,15 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pedeere2k&show_icons=true&theme=midnight-purple&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedeere2k&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=pedeere2k&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400"
+/>
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedeere2k&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
+/>
 
 </div>
 
