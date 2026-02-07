@@ -3,10 +3,13 @@
 # **@pedeere2k • Js**
 **desenvolvedor especializado em bots, APIs e sistemas avançados.**
 
-<img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2; margin-top:10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top:10px;">
 
-<img src="https://raw.githubusercontent.com/pedeere2k/svg/main/sscroll.svg" width="300">
+  <img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2;">
 
+  <img src="https://raw.githubusercontent.com/pedeere2k/svg/main/scroll.svg" width="250">
+
+</div>
 
 ## **Domínios**
 <p>
@@ -24,15 +27,11 @@
   <img src="https://img.shields.io/badge/Autor-@PDR%20LINDO-000000?style=for-the-badge&logo=github&labelColor=8A2BE2">
 </p>
 
-
 ## **My Repositórios**
 <div align="center">
-
   <a href="https://github.com/pedeere2k/Dz7Api">
     <img src="https://img.shields.io/badge/📁%20Repositório%20Dz7Api-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <br><br>
-
 </div>
 
 ## **🇺🇸**
