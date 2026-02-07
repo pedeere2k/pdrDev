@@ -46,10 +46,6 @@
 > Skilled in bot programming and system infrastructure in JavaScript. 
 
 ## **🇧🇷**
-> mim é pdr2k.
-> Programador de bots e Api, burro as vezes, esperto nunca 😎
-
-
 > mim é pdr2k.  
 > burro as vezes, esperto nunca 😎
 
