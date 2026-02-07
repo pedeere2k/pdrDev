@@ -2,7 +2,7 @@
 <div align="center" style="border-radius:12px;">
 
 # **@pedeere2k • Js**
-**desenvolvedor especializado em bots, APIs e sistemas avançados.**
+**Sla, So fiz**
 
 <img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2; margin-top:10px;">
 
